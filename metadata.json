@@ -1,0 +1,6 @@
+{
+  "name": "LivingOS TV",
+  "description": "A premium minimalist glassmorphism dashboard and ambient family display built for Android TV, featuring 10-foot remote navigation, customizable clock, photo wallpaper, slideshow, and app tiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
